@@ -1,2 +1,2 @@
-# APS
-atividades da disciplina de Analise projetos e sistemas
+# DELL/LeadFortaleza
+Machine learning
